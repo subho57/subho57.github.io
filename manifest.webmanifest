@@ -1,0 +1,17 @@
+{
+    "name":"Subhankar's Portfolio",
+    "short_name": "Subho57",
+    "start_url":"./index.html",
+    "display":"standalone",
+    "background":"black",
+    "theme_colour":"black",
+    "description":"Subhankar Pal's PWA Portfolio",
+    "icons":[
+        {
+            "src":"images/favicons/favicon.ico",
+            "sizes":"256x256",
+            "type":"image/ico"
+        }
+    ]
+
+}
