@@ -73,9 +73,10 @@ var files = (function () {
         "interests.txt": "\nMy Interests Are Mostly:\n\n- SDE\n- Python Scripting\n- Android\n- Web Designing \n",
         "contact.txt": "\nsubhankarpal10@protonmail.ch\n",
         "facebook.txt": "https://www.facebook.com/profile.php?id=100037368282016",
-        "linkedin.txt": "https://www.linkedin.com/in/subho57",
-        "github.txt": "https://github.com/subho57",
-        "codechef.txt": "https://www.codechef.com/users/subho57"
+        "linkedIn.txt": "https://www.linkedin.com/in/subho57",
+        "gitHub.txt": "https://github.com/subho57",
+        "codechef.txt": "https://www.codechef.com/users/subho57",
+        "<_Back":"https://subho57.github.io"
     };
     return {
         getInstance: function (options) {
