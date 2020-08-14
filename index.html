@@ -25,6 +25,9 @@
 	
 	<!-- Favicons -->
 	<link rel="shortcut icon" href="images/favicons/favicon.ico">
+
+	<!-- PWA Migration -->
+	<link rel= “manifest” href= “js/manifest.json” />
 	
 </head>
 
@@ -693,7 +696,8 @@
 	<script src="js/isotope.pkgd.js"></script>
 	
 	<!-- Main Scripts -->
-	<script> navigator.serviceWorker.register('js/sw.js')</script>
+	<script src="js/sw.js"></script>
+	<script src="js/site.js"></script>
 	<script src="js/glitche-scripts.js"></script>
 	
 </body>

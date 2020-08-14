@@ -1,4 +1,7 @@
 /* Subhankar Pal | @subho57 */
+
+// navigator.serviceWorker.register('js/sw.js')
+
 $(function () {
 	'use strict';
 	

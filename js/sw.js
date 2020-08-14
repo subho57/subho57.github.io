@@ -2,24 +2,23 @@ const CACHE_VERSION = 'cache-v1' // increment this when updating the web site
 
 // add more static assets to cache
 const filesToCache=[
-    "./index.html",
-    "./images/activity/blogger.png",
-    "./images/activity/cc.png",
-    "./images/activity/hackerrank.png",
-    "./images/activity/hackthebox.png",
-    "./images/activity/udemy.png",
-    "./images/favicons/favicon.ico",
-    "./images/projects/content.jpg",
-    "./images/projects/content_finder.jpg",
-    "./images/projects/ems.jpg",
-    "./images/projects/ems_cover.jpg",
-    "./images/subho57.jpg",
-    "./images/subho57_new.jpg",
-    "./images/subho57_new.jpeg",
-    "./fonts/ionicons790f.woff",
-    "./fonts/ionicons790f.ttf",
-    "./fonts/ionicons790f.woff"
-
+    "index.html",
+    "images/activity/blogger.png",
+    "images/activity/cc.png",
+    "images/activity/hackerrank.png",
+    "images/activity/hackthebox.png",
+    "images/activity/udemy.png",
+    "images/favicons/favicon.ico",
+    "images/projects/content.jpg",
+    "images/projects/content_finder.jpg",
+    "images/projects/ems.jpg",
+    "images/projects/ems_cover.jpg",
+    "images/subho57.jpg",
+    "images/subho57_new.jpg",
+    "images/subho57_new.jpeg",
+    "fonts/ionicons790f.woff",
+    "fonts/ionicons790f.ttf",
+    "fonts/ionicons790f.woff"
 ]
 self.addEventListener(
     'install',
@@ -84,7 +83,7 @@ self.addEventListener(
                                 status: 302,
                                 statusText: 'Found',
                                 headers: {
-                                    Location: '/offline.html'
+                                    Location: 'index.html'
                                 }
                             }
                         )
