@@ -1,7 +1,7 @@
 {
     "name": "Subhankar's Portfolio",
     "short_name": "Subho57",
-    "start_url":"/",
+    "start_url":"index.html",
     "display":"standalone",
     "background":"black",
     "theme_colour":"black",
