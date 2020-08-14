@@ -12,6 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-navigator.serviceWorker && navigator.serviceWorker.register('sw.js').then(function(registration)
+navigator.serviceWorker && navigator.serviceWorker.register('js/sw.js').then(function(registration)
 {	console.log('Excellent, registered with scope: ', registration.scope);
 });
