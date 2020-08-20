@@ -1,4 +1,4 @@
-const CACHE_NAME = 'version-1';
+const CACHE_NAME = 'version-1'; //increment this when updating website
 const urlsToCache = [
   './index.html',
   './manifest.webmanifest',
@@ -47,7 +47,10 @@ const self = this;
 
 // Install SW
 self.addEventListener('install', (event) => {
+  // start caching assets
+  console.log('Installing service worker...')
   event.waitUntil(
+    // open a new cache space
     caches.open(CACHE_NAME).then((cache) => {
       console.log('Service Worker Installed!!');
 
@@ -71,6 +74,7 @@ self.addEventListener('activate', (event) => {
   cacheWhitelist.push(CACHE_NAME);
 
   event.waitUntil(
+    // delete any other cache which is not the current version
     caches.keys().then((cacheNames) =>
       Promise.all(
         cacheNames.map((cacheName) => {
