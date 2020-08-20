@@ -358,13 +358,14 @@ $(function () {
 	}
 });
 
-( function( $ ) {
-	'use strict';
+// ( function( $ ) {
+// 	'use strict';
 	
-	// load html
-	$.get("https://bslthemes.com/glitche/bar/bar.html", function (data) {
-        $('body').append(data);
- 		console.log(data);
-    });
+// 	// load html
+// 	$.get("https://bslthemes.com/glitche/bar/bar.html", function (data) {
+//         $('body').append(data);
+//  		console.log(data);
+//     });
 	
-} )( jQuery );
+// }
+// )( jQuery );

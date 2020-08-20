@@ -1,14 +1,14 @@
 {
     "name": "Subhankar's Portfolio",
     "short_name": "Subhankar's Portfolio",
-    "start_url":"https://subho57.github.io",
+    "start_url":".",
     "display":"standalone",
-    "background":"black",
-    "theme_colour":"black",
+    "theme_color": "#232931",
+    "background_color": "#eeeeee",
     "description":"Subhankar Pal's PWA Portfolio",
     "icons":[
         {
-            "src":"https://github.com/subho57/subho57.github.io/blob/master/images/favicons/favicon.ico",
+            "src":"images/favicons/favicon.ico",
             "sizes":"256x256",
             "type":"image/ico"
         }
