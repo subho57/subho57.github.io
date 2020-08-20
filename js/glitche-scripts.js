@@ -358,6 +358,12 @@ $(function () {
 	}
 });
 
+// load service worker
+"serviceWorker"in navigator && window.addEventListener("load", ()=>{
+    navigator.serviceWorker.register("./sw.js").then(e=>console.log("Success: ", e.scope)).catch(e=>console.log("Failure: ", e))
+}
+)
+
 // ( function( $ ) {
 // 	'use strict';
 	

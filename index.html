@@ -28,15 +28,7 @@
 	<link rel="shortcut icon" href="images/favicons/favicon.ico">
 
 	<!-- PWA Migration -->
-	<link rel= "manifest" href= "./manifest.json" />
-
-	<!-- Loading Service Worker -->
-	<script>
-		"serviceWorker"in navigator && window.addEventListener("load", ()=>{
-			navigator.serviceWorker.register("./sw.js").then(e=>console.log("Success: ", e.scope)).catch(e=>console.log("Failure: ", e))
-		}
-		)
-	</script>
+	<link rel= "manifest" href= "./manifest.webmanifest" />
 	
 </head>
 
