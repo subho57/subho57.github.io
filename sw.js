@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Resume-v3'; //increment this when updating website
+const CACHE_NAME = 'Resume-v4'; //increment this when updating website
 const urlsToCache = [
   './index.html',
   './manifest.webmanifest',
