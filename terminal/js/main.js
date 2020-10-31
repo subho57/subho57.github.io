@@ -71,7 +71,7 @@ var files = (function () {
         "about.txt": "\nHello, My name is Subhankar and I'm a Software Developer Engineer and a Competitive Programmer with an effective problem-solving mindset and a lifelong passion for software development and technology, I'm a sophomore currently pursuing B.Tech in University of Engineering and Management (UEM), Kolkata with a major in Computer Science and Engineering. I have made a few utility tools which can efficiently improve productivity on a larger scale. I want to contribute to this industry as much as possible.\n",
         "services.txt": "\nI provide services related to Software/App Development.\n\nSoftware Development Services :\n\n• Android App Development\n• Java API Development\n• Database Management\n• Software Development\n• Programming for Problem Solving Training\n\nWeb Designing & Web Development :\n\n• Website Designing\n• Static/Dynamic Web Designing\n• PWA Migration\n• Makeover / Re-Design\n",
         "interests.txt": "\nMy Interests Are Mostly:\n\n- SDE\n- Python Scripting\n- Android\n- Web Designing \n",
-        "contact.txt": "\nsubhankarpal10@protonmail.ch\n",
+        "contact.txt": "\nsubhankarpal57@protonmail.ch\n",
         "facebook.txt": "https://www.facebook.com/subhankarpal57",
         "linkedIn.txt": "https://www.linkedin.com/in/subho57",
         "gitHub.txt": "https://github.com/subho57",

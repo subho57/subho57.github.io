@@ -2,27 +2,27 @@
 input:focus,
 textarea:focus,
 button:focus {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 input:focus::-webkit-input-placeholder,
 textarea:focus::-webkit-input-placeholder {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 input:focus:-moz-placeholder,
 textarea:focus:-moz-placeholder {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 input:focus::-moz-placeholder,
 textarea:focus::-moz-placeholder {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 input:focus:-ms-input-placeholder,
 textarea:focus:-ms-input-placeholder {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 body, .container .line {
@@ -50,7 +50,7 @@ td,
 blockquote,
 .skills ul li .progress .percentage .percent,
 .category {
-	color: #a2a2a6;
+	color: #000000;
 }
 
 input,
@@ -82,7 +82,7 @@ a.btn,
 .skills ul li .name,
 .box-items .box-item .desc .name,
 .popup-box .desc h4 {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 .container, 
@@ -101,7 +101,7 @@ header.opened,
 .skills.circles .progress:after,
 footer,
 header {
-	background: #31313a;
+	background: #c0bfbf;
 }
 
 .background-enabled .started-content .glitch-effect:before, 
@@ -114,8 +114,8 @@ header {
 }
 
 .mfp-close-btn-in .mfp-close {
-	background: #31313a!important;
-	color: #fff!important;
+	background: #f5f2f2!important;
+	color: rgb(0, 0, 0)!important;
 }
 
 .section .content .title .title_inner, 
@@ -140,12 +140,12 @@ ins,
 }
 
 .content-sidebar {
-	background: #31313a;
+	background: #b4adad;
 }
 
 .content-sidebar .close,
 .post-comments ul.children {
-	background: #3b3b42;
+	background: #9e9ea0;
 }
 
 .content-sidebar .close:before, 
@@ -159,7 +159,7 @@ ins,
 header .head-top .menu-btn span,
 header .head-top .menu-btn:before,
 header .head-top .menu-btn:after {
-	background: #f0f0f0;
+	background: #000000;
 }
 
 .search-form input.search-submit {
@@ -209,12 +209,12 @@ header .head-top .top-menu-nav .children li {
 
 header .head-top .top-menu-nav .sub-menu li a, 
 header .head-top .top-menu-nav .children li a {
-	color: #a2a2a6;
+	color: #000000;
 }
 
 header .head-top .top-menu-nav .sub-menu li:hover a, 
 header .head-top .top-menu-nav .children li:hover a {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 .post-comments ul.children ul.children {
@@ -234,11 +234,11 @@ header .head-top .top-menu-nav .children li:hover a {
 }
 
 .background-enabled header .head-top .top-menu-nav .sub-menu li a {
-	color: #a2a2a6;
+	color: #000000;
 }
 
 .background-enabled header .head-top .top-menu-nav .sub-menu li a:hover {
-	color: #a2a2a6;
+	color: #000000;
 	text-decoration: underline;
 }
 
@@ -250,7 +250,7 @@ header .head-top .top-menu-nav .children li:hover a {
 }
 
 header .logo a {
-	color: #f0f0f0;
+	color: #000000;
 }
 
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {

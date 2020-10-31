@@ -971,7 +971,7 @@ footer .copy {
   float: left;
   padding-top: 2px;
   font-size: 11px;
-  color: #999999;
+  color: #000000;
 }
 
 @media (max-width: 840px) {

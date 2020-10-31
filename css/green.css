@@ -1,48 +1,49 @@
 /* Subhankar Pal | @subho57 */
 /* 1. Template Green */
 .container .line {
-	background: #26262d;
+  /* background: #26262d; */
+  background-image: url(/images/projects/wall_cover.jpg);
 }
 
 a:hover {
-	color: #0ce897;
+	color: #0274d1;
 }
 
 a.btn.fill,
 .btn.fill {
-	background: #0ce897;
-	border-color: #0ce897;
+	background: #0274d1;
+	border-color: #0274d1;
 }
 
 a.btn:hover,
 .btn:hover {
-	background: #0ce897;
-	border-color: #0ce897;
+	background: #0274d1;
+	border-color: #0274d1;
 }
 
 .preloader .load {
-	color: #0ce897;
+	color: #0274d1;
 }
 
 .preloader .typed-load,
 .preloader .typed-cursor {
-	color: #0ce897;
+	color: #0274d1;
 }
 
 input:focus,
 textarea:focus,
 button:focus {
-	border-bottom-color: #0ce897;
+	border-bottom-color: #0274d1;
 }
 
 button:hover {
-	border-bottom-color: #0ce897;
+	border-bottom-color: #0274d1;
 }
 
 @media (min-width: 580px) {
 	.glitch-effect-white:before,
 	.glitch-effect-white:after {
-		background: #0ce897;
+		background: #0274d1;
 	}
 
 	.glitch-effect:after,
@@ -60,53 +61,53 @@ button:hover {
 header .head-top .menu-btn:hover:before,
 header .head-top .menu-btn:hover:after,
 header .head-top .menu-btn:hover span {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 header .head-top .top-menu ul li.active a {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 header .head-top .top-menu ul li.active .btn {
-  background: #0ce897;
-  border-color: #0ce897;
+  background: #0274d1;
+  border-color: #0274d1;
 }
 
 .section.started .mouse_btn {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .info-list ul li strong {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .resume-items .resume-item:before {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 .resume-items .resume-item .date {
-  color: #0ce897;
-  border-color: #0ce897;
+  color: #0274d1;
+  border-color: #0274d1;
 }
 
 .resume-items .resume-item .date:before {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 .skills ul li .progress .percentage {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 .service-items .service-item .icon {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .section.works .filters label.glitch-effect {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .box-items .box-item:hover .desc .name {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .box-items .box-item .image .info .centrize {
@@ -114,28 +115,28 @@ header .head-top .top-menu ul li.active .btn {
 }
 
 .date {
-  color: #0ce897;
-  border-color: #0ce897;
+  color: #0274d1;
+  border-color: #0274d1;
 }
 
 footer .soc a:hover .ion {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .skills.dotted ul li .progress .da span {
-  background: #0ce897!important;
+  background: #0274d1!important;
 }
 
 .skills.list ul li .name:before {
-  color: #0ce897;
+  color: #0274d1;
 }
 
 .skills ul li .progress .percentage {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 .skills.dotted ul li .progress .da span {
-  background: #0ce897;
+  background: #0274d1;
 }
 
 .skills.circles .progress .bar, 
@@ -189,5 +190,5 @@ footer .soc a:hover .ion {
 .skills.circles .progress.p98 .fill, 
 .skills.circles .progress.p99 .fill, 
 .skills.circles .progress.p100 .fill {
-  border-color: #0ce897;
+  border-color: #0274d1;
 }

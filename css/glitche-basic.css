@@ -265,7 +265,7 @@ a.btn,
 	color: #363636;
 	font-size: 13px;
 	background: none;
-	border: 1px solid #dddddd;
+	border: 1px solid #267bfa;
 	position: relative;
 	overflow: hidden;
 	padding: 0 30px;
@@ -326,7 +326,7 @@ button {
 	margin-bottom: 30px;
 	padding: 0;
 	border: none;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 1px solid #267bfa;
 	-webkit-appearance: none;
 	resize: none;
 	transition: all 0.3s ease 0s;
@@ -358,7 +358,7 @@ button {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 1px solid #267bfa;
 	cursor: pointer;
 	color: #141414;
 }
@@ -472,7 +472,7 @@ li {
 
 /* 10. Code */
 code {
-	background: #dddddd;
+	background: #267bfa;
 	font-size: 16px;
 	font-family: 'Roboto Mono';
 	margin: 20px 0;
@@ -490,7 +490,7 @@ table {
 th {
 	font-weight: 500;
 	border: none;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 1px solid #267bfa;
 	color: #141414;
 	padding: 12px 15px;
 	text-align: left;
@@ -498,7 +498,7 @@ th {
 
 td {
 	border: none;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 1px solid #267bfa;
 	padding: 12px 15px;
 	text-align: left;
 	color: #363636;
